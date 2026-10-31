@@ -1,0 +1,6 @@
+{
+  "name": "Thermal Labeler",
+  "description": "Aplikasi Web Pembuat & Pencetak Label Nama dan Gambar untuk Printer Thermal Bluetooth (ESC/POS)",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
